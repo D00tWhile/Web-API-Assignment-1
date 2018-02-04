@@ -1,0 +1,923 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3641,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WAzhYxDuv3EC",
+   "etag": "Cqxel6k/X9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WAzhYxDuv3EC",
+   "volumeInfo": {
+    "title": "The Turning",
+    "subtitle": "Stories",
+    "authors": [
+     "Tim Winton"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2006-10-10",
+    "description": "Set on a coastal stretch of Western Australia, Tim Winton's stunning collection of connected stories is about turnings of all kinds -- changes of heart, slow awakenings, nasty surprises and accidents, sudden detours, resolves made or broken. Brothers cease speaking to each other, husbands abandon wives and children, grown men are haunted by childhood fears. People struggle against the weight of their own history and try to reconcile themselves to their place in the world. With extraordinary insight and tenderness, Winton explores the demons and frailties of ordinary people whose lives are not what they had hoped.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743298772"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743298773"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WAzhYxDuv3EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WAzhYxDuv3EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WAzhYxDuv3EC&printsec=frontcover&dq=Turning&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WAzhYxDuv3EC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WAzhYxDuv3EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WAzhYxDuv3EC&rdid=book-WAzhYxDuv3EC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.599E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Turning-sample-epub.acsm?id=WAzhYxDuv3EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WAzhYxDuv3EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Set on a coastal stretch of Western Australia, Tim Winton&#39;s stunning collection of connected stories is about turnings of all kinds -- changes of heart, slow awakenings, nasty surprises and accidents, sudden detours, resolves made or broken ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d8bBFGJq79sC",
+   "etag": "dh6ATV2FeaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d8bBFGJq79sC",
+   "volumeInfo": {
+    "title": "The Fourth Turning",
+    "subtitle": "What the Cycles of History Tell Us About America's Next Rendezvous with Destiny",
+    "authors": [
+     "William Strauss",
+     "Neil Howe"
+    ],
+    "publisher": "Three Rivers Press",
+    "publishedDate": "2009-01-16",
+    "description": "This astonishing book will change the way you see the world -- and your place in it. With startling originality, The Fourth Turning illuminates the past, explains the present, and reimagines the future. Most remarkably, it offers an utterly persuasive prophecy about a new American era that will begin just after the millennium. William Strauss and Neil Howe base this vision on a provocative new theory of American history. The authors look back five hundred years and uncover a distinct pattern: Modern history moves in cycles, each one lasting about the length of a long human life, each composed of four eras--or \"turnings\"--that last about twenty years and that always arrive in the same order. First comes a High, a period of confident expansion as a new order takes root after the old has been swept away. Next comes an Awakening, a time of spiritual exploration and rebellion against the now-established order. Then comes an Unraveling, an increasingly troubled era in which individualism triumphs over crumbling institutions. Last comes a Crisis--the Fourth Turning--when society passes through a great and perilous gate in history. Together, the four turnings comprise history's seasonal rhythm of growth, maturation, entropy, and rebirth. Strauss and Howe locate today's America as midway through an Unraveling, roughly a decade away from the next era of Crisis. In a brilliant analysis of the post-World War II period, they show how generational dynamics are the key to understanding the cycles of American history. They draw vivid portraits of all the modern generations: the can-do G.I.s, the mediating Silent, the values-absorbed Boomers, the pragmatic 13ers, and the child Millennials. Placed in the context of history's long rhythms, the persona and role of each generation become clear--as does the inevitability of the coming Crisis. Whatever your stage of life, The Fourth Turning offers bold predictions about how all of us can prepare, individually and collectively, for America's next rendezvous with destiny.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307485056"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307485052"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d8bBFGJq79sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d8bBFGJq79sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d8bBFGJq79sC&printsec=frontcover&dq=Turning&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=d8bBFGJq79sC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-d8bBFGJq79sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=d8bBFGJq79sC&rdid=book-d8bBFGJq79sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.699E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.699E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Fourth_Turning-sample-epub.acsm?id=d8bBFGJq79sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Fourth_Turning-sample-pdf.acsm?id=d8bBFGJq79sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d8bBFGJq79sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This astonishing book will change the way you see the world -- and your place in it. With startling originality, The Fourth Turning illuminates the past, explains the present, and reimagines the future."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V8OPCgAAQBAJ",
+   "etag": "o/zEmcbo2Wg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V8OPCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Turning the Tide",
+    "subtitle": "U.S. Intervention in Central America and the Struggle for Peace",
+    "authors": [
+     "Noam Chomsky"
+    ],
+    "publisher": "Haymarket Books",
+    "publishedDate": "2015-09-28",
+    "description": "Noam Chomsky addresses relations throughout Central America and relates these to superpower conflicts and the overall role of the Cold War in contemporary international relations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781608464470"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1608464474"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V8OPCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V8OPCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=V8OPCgAAQBAJ&printsec=frontcover&dq=Turning&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=V8OPCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-V8OPCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=V8OPCgAAQBAJ&rdid=book-V8OPCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_the_Tide-sample-epub.acsm?id=V8OPCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_the_Tide-sample-pdf.acsm?id=V8OPCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V8OPCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Noam Chomsky addresses relations throughout Central America and relates these to superpower conflicts and the overall role of the Cold War in contemporary international relations."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wi5me1HBT7kC",
+   "etag": "RPaAQF+1c2c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wi5me1HBT7kC",
+   "volumeInfo": {
+    "title": "Turning Points in Australian History",
+    "authors": [
+     "Martin Crotty",
+     "David Andrew Roberts"
+    ],
+    "publisher": "UNSW Press",
+    "publishedDate": "2009",
+    "description": "\"Following on from the successful Great Mistakes in Australian History, Turning Points shows us key moments, serious decisions, random coincidences that really did change the course of history. Seventeen of Australia's leading historians prompt us to see history differently, in a challenging and engaging way.\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921410567"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1921410566"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Wi5me1HBT7kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Wi5me1HBT7kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wi5me1HBT7kC&printsec=frontcover&dq=Turning&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Wi5me1HBT7kC&dq=Turning&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Turning_Points_in_Australian_History.html?hl=&id=Wi5me1HBT7kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_Points_in_Australian_History-sample-pdf.acsm?id=Wi5me1HBT7kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wi5me1HBT7kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seventeen of Australia&#39;s leading historians prompt us to see history differently, in a challenging and engaging way.&quot;--Provided by publisher."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7TdO_iflGJQC",
+   "etag": "Ex+bqre6bpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7TdO_iflGJQC",
+   "volumeInfo": {
+    "title": "Turning to One Another (Large Print 16pt)",
+    "authors": [
+     "Margaret J. Wheatley"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2010-05-01",
+    "description": "By the author of Leadership and the New Science (over 250,000 copies sold); Shows how the simple but long neglected act of conversation-of thoughtfully talking and listening to one another-has the power to change lives; Offers insightful advice on how to conduct conversations that will help us to genuinely connect with each other and restore hope to our individual lives; Provides ten ''conversation starters'' to provoke rich and meaningful exchange ''I believe we can change the world if we start talking to one another again.'' With this simple declaration, Margaret Wheatley proposes that people band together with their colleagues and friends to create the solutions for real social change, both locally and globally, that are so badly needed. Such change will not come from governments or corporations, she argues, but from the ageless process of thinking together in conversation. Turning to One Another encourages this process. Part I explores the power of conversation and the conditions-simplicity, personal courage, real listening, and diversity-that support it. Part II contains quotes and images to encourage the reader to pause and reflect, and to prepare for the work ahead-convening truly meaningful conversations. Part III provides ten ''conversation starters''-questions that in Wheatley's experience have led people to share their deepest beliefs, fears, and hopes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458755490"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1458755495"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7TdO_iflGJQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7TdO_iflGJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7TdO_iflGJQC&printsec=frontcover&dq=Turning&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7TdO_iflGJQC&dq=Turning&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Turning_to_One_Another_Large_Print_16pt.html?hl=&id=7TdO_iflGJQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7TdO_iflGJQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Part II contains quotes and images to encourage the reader to pause and reflect, and to prepare for the work ahead-convening truly meaningful conversations."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FR7hAAAAQBAJ",
+   "etag": "O7pNbHbCjYY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FR7hAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Turning Pro",
+    "subtitle": "Tap Your Inner Power and Create Your Life's Work",
+    "authors": [
+     "Steven Pressfield"
+    ],
+    "publisher": "Black Irish Entertainment LLC",
+    "publishedDate": "2012-06-27",
+    "description": "The follow-up to his bestseller The War of Art, Turning Pro navigates the passage from the amateur life to a professional practice. \"You don't need to take a course or buy a product. All you have to do is change your mind.\" --Steven Pressfield TURNING PRO IS FREE, BUT IT'S NOT EASY. When we turn pro, we give up a life that we may have become extremely comfortable with. We give up a self that we have come to identify with and to call our own. TURNING PRO IS FREE, BUT IT DEMANDS SACRIFICE. The passage from amateur to professional is often achieved via an interior odyssey whose trials are survived only at great cost, emotionally, psychologically and spiritually. We pass through a membrane when we turn pro. It's messy and it's scary. We tread in blood when we turn pro. WHAT WE GET WHEN WE TURN PRO. What we get when we turn pro is we find our power. We find our will and our voice and we find our self-respect. We become who we always were but had, until then, been afraid to embrace and live out.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781936891054"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1936891050"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FR7hAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FR7hAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FR7hAAAAQBAJ&printsec=frontcover&dq=Turning&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FR7hAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FR7hAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FR7hAAAAQBAJ&rdid=book-FR7hAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7390000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_Pro-sample-epub.acsm?id=FR7hAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_Pro-sample-pdf.acsm?id=FR7hAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FR7hAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;You don&#39;t need to take a course or buy a product. All you have to do is change your mind.&quot; --Steven Pressfield TURNING PRO IS FREE, BUT IT&#39;S NOT EASY. When we turn pro, we give up a life that we may have become extremely comfortable with."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qgtgVsBTVEcC",
+   "etag": "TiKZj1MYH/s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qgtgVsBTVEcC",
+   "volumeInfo": {
+    "title": "Permission Marketing",
+    "subtitle": "Turning Strangers Into Friends And Friends Into Customers",
+    "authors": [
+     "Seth Godin"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1999-07-14",
+    "description": "The man Business Week calls \"the ultimate entrepreneur for the Information Age\" explains \"Permission Marketing\" -- the groundbreaking concept that enables marketers to shape their message so that consumers will willingly accept it. Whether it is the TV commercial that breaks into our favorite program, or the telemarketing phone call that disrupts a family dinner, traditional advertising is based on the hope of snatching our attention away from whatever we are doing. Seth Godin calls this Interruption Marketing, and, as companies are discovering, it no longer works. Instead of annoying potential customers by interrupting their most coveted commodity -- time -- Permission Marketing offers consumers incentives to accept advertising voluntarily. Now this Internet pioneer introduces a fundamentally different way of thinking about advertising products and services. By reaching out only to those individuals who have signaled an interest in learning more about a product, Permission Marketing enables companies to develop long-term relationships with customers, create trust, build brand awareness -- and greatly improve the chances of making a sale. In his groundbreaking book, Godin describes the four tests of Permission Marketing: 1. Does every single marketing effort you create encourage a learning relationship with your customers? Does it invite customers to \"raise their hands\" and start communicating? 2. Do you have a permission database? Do you track the number of people who have given you permission to communicate with them? 3. If consumers gave you permission to talk to them, would you have anything to say? Have you developed a marketing curriculum to teach people about your products? 4. Once people become customers, do you work to deepen your permission to communicate with those people? And in numerous informative case studies, including American Airlines' frequent-flier program, Amazon.com, and Yahoo!, Godin demonstrates how marketers are already profiting from this key new approach in all forms of media.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684836331"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0684836335"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qgtgVsBTVEcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qgtgVsBTVEcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qgtgVsBTVEcC&printsec=frontcover&dq=Turning&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qgtgVsBTVEcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qgtgVsBTVEcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qgtgVsBTVEcC&rdid=book-qgtgVsBTVEcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Permission_Marketing-sample-epub.acsm?id=qgtgVsBTVEcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qgtgVsBTVEcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In his groundbreaking book, Godin describes the four tests of Permission Marketing: 1. Does every single marketing effort you create encourage a learning relationship with your customers?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CI8531CO-dsC",
+   "etag": "v6VlH7HCga4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CI8531CO-dsC",
+   "volumeInfo": {
+    "title": "Turning the Tide",
+    "subtitle": "The Eradication of Invasive Species : Proceedings of the International Conference on Eradication of Island Invasives",
+    "authors": [
+     "C. R. Veitch",
+     "Michael Norman Clout"
+    ],
+    "publisher": "IUCN",
+    "publishedDate": "2002-01-01",
+    "description": "This collection of 52 papers and 21 abstracts focuses on sharing available knowledge to combat the threat of invasive alien species. Turning the tide of biological invasion by eradicating invasive species can yield substantial benefits for biodiversity conservation. As more eradications are attempted worldwide, it is increasingly important that lessons are learned from each and every one of these attempts, whether successful or unsuccessful. This publication is intended to share with a wider audience the insights and practical experience gained.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782831706825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2831706823"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 414,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CI8531CO-dsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CI8531CO-dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CI8531CO-dsC&printsec=frontcover&dq=Turning&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CI8531CO-dsC&dq=Turning&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Turning_the_Tide.html?hl=&id=CI8531CO-dsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CI8531CO-dsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This collection of 52 papers and 21 abstracts focuses on sharing available knowledge to combat the threat of invasive alien species."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7rJvhpg0S9sC",
+   "etag": "U2n+QRHuor0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7rJvhpg0S9sC",
+   "volumeInfo": {
+    "title": "Turning Points",
+    "subtitle": "Decisive Moments in the History of Christianity",
+    "authors": [
+     "Mark A. Noll"
+    ],
+    "publisher": "Baker Books",
+    "publishedDate": "2012-07-01",
+    "description": "In this popular introduction to church history, now in its third edition, Mark Noll isolates key events that provide a framework for understanding the history of Christianity. The book presents Christianity as a worldwide phenomenon rather than just a Western experience. Now organized around fourteen key moments in church history, this well-received text provides contemporary Christians with a fuller understanding of God as he has revealed his purpose through the centuries. This new edition includes a new preface; updates throughout the book; revised \"further readings\" for each chapter; and two new chapters, including one spotlighting Vatican II and Lausanne as turning points of the recent past. Students in academic settings and church adult education contexts will benefit from this one-semester survey of Christian history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441238801"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1441238808"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7rJvhpg0S9sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7rJvhpg0S9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7rJvhpg0S9sC&printsec=frontcover&dq=Turning&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7rJvhpg0S9sC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7rJvhpg0S9sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.5,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7rJvhpg0S9sC&rdid=book-7rJvhpg0S9sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9500000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_Points-sample-epub.acsm?id=7rJvhpg0S9sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turning_Points-sample-pdf.acsm?id=7rJvhpg0S9sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7rJvhpg0S9sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This new edition includes a new preface; updates throughout the book; revised &quot;further readings&quot; for each chapter; and two new chapters, including one spotlighting Vatican II and Lausanne as turning points of the recent past."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i2vA05yf5p4C",
+   "etag": "gJtBVv9/xRs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i2vA05yf5p4C",
+   "volumeInfo": {
+    "title": "Traffic and Turning",
+    "subtitle": "Islam and English Drama, 1579-1624",
+    "authors": [
+     "Jonathan Burton"
+    ],
+    "publisher": "University of Delaware Press",
+    "publishedDate": "2005",
+    "description": "It will be of interest to all those interested in questions of early modern contact history, English relations with Islam and the East, English theater history, and cultural politics.\"--BOOK JACKET.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0874139139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780874139136"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i2vA05yf5p4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i2vA05yf5p4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=i2vA05yf5p4C&printsec=frontcover&dq=Turning&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i2vA05yf5p4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-i2vA05yf5p4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 55.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.35,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i2vA05yf5p4C&rdid=book-i2vA05yf5p4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.5E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.235E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Traffic_and_Turning-sample-epub.acsm?id=i2vA05yf5p4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Traffic_and_Turning-sample-pdf.acsm?id=i2vA05yf5p4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i2vA05yf5p4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It will be of interest to all those interested in questions of early modern contact history, English relations with Islam and the East, English theater history, and cultural politics."
+   }
+  }
+ ]
+}
